@@ -1,6 +1,6 @@
 Hello and thank you for visting my Github!
 
-I'm currently looking to pivot careers into software development focusing on the Django framework. I've always had a passion for programming and now that I have the time to pursue that opportunity I've created some interesting and exciting projects! 
+I'm currently looking to pivot careers into software development focusing on Python and the Django framework. I've always had a passion for programming and now that I have the time to pursue that opportunity I've created some interesting and exciting projects! 
 
 Feel free to inspect, ask questions, offer feedback or just say hello through my email: Scottcarnegie3@gmail.com
 
